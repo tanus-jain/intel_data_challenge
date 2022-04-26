@@ -1,0 +1,21 @@
+﻿affectedproducts,configuration,drop,trendyyyyww
+"ADL,MCC,TGL-H,TGL-LP",FUSE HIP TOP TGP-LP,RTL1P0,201738
+TGL-LP,OPI_v14.2_TGP-LP,RTL1P0,201738
+CNX_EP,IOSF PSF Gen2_IIO_CNX_EP,RTL1P0,201738
+"ADL,MCC,TGL-H,TGL-LP, JSP PCH-N,Lakefield 1 Base,Lakefield 1 Compute,Mule Creek Canyon PCH",PES P2SB_ALL,RTL1P0,201739
+"ADL,MCC,TGL-H,TGL-LP, JSP PCH-N,Lakefield 1 Base,Lakefield 1 Compute,Mule Creek Canyon PCH",Chassis Fuse Controller Gen2.1_ALL,RTL1P0,201739
+"Tanner Ridge Die,TCF, TGL-H,TGL-LP, JSP PCH-N,Lakefield 1 Base,Lakefield 1 Compute,Mule Creek Canyon PCH",SDG Bscan,RTL1P0,201739
+"GRANITE RAPIDS-IO-DIE-M,Soft IP Pathfinding,Tiger Lake U/Y 4+2 Die,Tiger Lake U/Y Refresh 4+2 Die",IOSF PSF Gen2_Dynamo,RTL1P0,201739
+"ICL PCH-N ,JSP PCH-N",GPIO Controller_ICP-N PCH IP,RTL1P0,201739
+"ICL PCH-N,JSP PCH-N",ICC_ICP-N,RTL1P0,201739
+ICL Refresh S/H 8+1,Flexi-IO Adapter_TCx4_ICL-SH82,RTL1P0,201739
+Lakefield 1 Base,PES RTC_LKF_Base,RTL1P0,201739
+"Lakefield 1 Base,Lakefield 1 Compute",cAVS2.5_LKF1B,RTL1P0,201739
+"Lakefield 1 Base,Lakefield 1 Compute",CSE_LKF1-B,RTL1P0,201739
+"Lakefield 1 Base,Lakefield 1 Compute",USB Controller_v18.0_LKF1,RTL1P0,201739
+"Lakefield 1 Base,Lakefield 1 Compute",USB SS_v18.0_LKF1,RTL1P0,201739
+"Lakefield 1 Base,Lakefield 1 Compute",HSIO_Gen6.0 N/S Type-C for LKF1-B,RTL1P0,201739
+"ADL PCH-P,TGL PCH-LP",Flexi-IO Adapter_TGP-LP,RTL1P0,201740
+"DG1, JC",8.0-10.0GHz LCPLL - 1274.6/.7,RTL1P0,201743
+"DG1,JC,Tiger Lake S/H 8+1 Die,TGL U/Y 4+2 ,TGL U/Y Refresh 4+2 Die",8.0GHz LCPLL - 1274.6/.7,RTL1P0,201743
+ICL PCH-LP,Flexi-IO Adapter_ICP-LP,RTL1P0,201743
